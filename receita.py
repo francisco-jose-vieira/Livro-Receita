@@ -1,10 +1,11 @@
 class Receita:
-    def __init__(self, nome, ingredientes, modo_preparo, tempo="--", porcoes="--"):
+    def __init__(self, nome, ingredientes, modo_preparo, tempo="--", porcoes="--", foto_path=None):
         self.nome = nome
         self.ingredientes = ingredientes
         self.modo_preparo = modo_preparo
         self.tempo = tempo
         self.porcoes = porcoes
+        self.foto_path = foto_path
 
     def texto_receita(self):
         texto = f"Receita: {self.nome}\n"
