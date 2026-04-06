@@ -7,6 +7,17 @@ class Receita:
         self.porcoes = porcoes
         self.foto_path = foto_path
 
+    def to_dict(self):
+        """Converte o objeto para um dicionário para salvar no JSON"""
+        return {
+            "nome": self.nome,
+            "ingredientes": self.ingredientes,
+            "modo_preparo": self.modo_preparo,
+            "tempo": self.tempo,
+            "porcoes": self.porcoes,
+            "foto_path": self.foto_path
+        }
+
     def texto_receita(self):
         texto = f"Receita: {self.nome}\n"
         texto += f"⏱ Tempo: {self.tempo} | 🍴 Porções: {self.porcoes}\n\n"
