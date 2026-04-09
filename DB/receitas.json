@@ -1,1 +1,33 @@
-[]
+[
+    {
+        "nome": "Macarão",
+        "ingredientes": [
+            "Macarão",
+            "Camarão",
+            "Limão"
+        ],
+        "modo_preparo": [
+            "Botar agua para ferver",
+            "etc"
+        ],
+        "tempo": "30 min",
+        "porcoes": "2 porções",
+        "foto_path": "C:/Users/franc/Downloads/orkun-orcan-l0GFM3y8qh4-unsplash.jpg"
+    },
+    {
+        "nome": "Panqueca",
+        "ingredientes": [],
+        "modo_preparo": [],
+        "tempo": "45 min",
+        "porcoes": "4 porções",
+        "foto_path": "C:/Users/franc/Downloads/caitlin-greene-QDM6-fFKP0s-unsplash.jpg"
+    },
+    {
+        "nome": "Salmão com verduras",
+        "ingredientes": [],
+        "modo_preparo": [],
+        "tempo": "60 min",
+        "porcoes": "2 porções",
+        "foto_path": "C:/Users/franc/Downloads/anh-nguyen-kcA-c3f_3FE-unsplash.jpg"
+    }
+]
