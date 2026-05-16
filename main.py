@@ -1,5 +1,5 @@
-from interface import InterfaceReceitas
+from controllers.app_controller import AppController
 
 if __name__ == "__main__":
-    app = InterfaceReceitas()
+    app = AppController()
     app.executar()

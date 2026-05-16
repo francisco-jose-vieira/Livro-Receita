@@ -1,33 +1,37 @@
 [
     {
-        "nome": "Macarão",
+        "nome": "aaaaaaaa",
         "ingredientes": [
-            "Macarão",
-            "Camarão",
-            "Limão"
+            "asasasdsdas",
+            "sdasd"
         ],
         "modo_preparo": [
-            "Botar agua para ferver",
-            "etc"
+            "asdasd"
         ],
-        "tempo": "30 min",
-        "porcoes": "2 porções",
-        "foto_path": "C:/Users/franc/Downloads/orkun-orcan-l0GFM3y8qh4-unsplash.jpg"
+        "tempo": "323 min",
+        "porcoes": "2323 porções",
+        "foto_path": "C:/Users/franc/Downloads/anh-nguyen-kcA-c3f_3FE-unsplash.jpg",
+        "checklist": {
+            "asasasdsdas": true,
+            "sdasd": false
+        }
     },
     {
-        "nome": "Panqueca",
-        "ingredientes": [],
-        "modo_preparo": [],
-        "tempo": "45 min",
-        "porcoes": "4 porções",
-        "foto_path": "C:/Users/franc/Downloads/caitlin-greene-QDM6-fFKP0s-unsplash.jpg"
-    },
-    {
-        "nome": "Salmão com verduras",
-        "ingredientes": [],
-        "modo_preparo": [],
-        "tempo": "60 min",
-        "porcoes": "2 porções",
-        "foto_path": "C:/Users/franc/Downloads/anh-nguyen-kcA-c3f_3FE-unsplash.jpg"
+        "nome": "sdsdsd",
+        "ingredientes": [
+            "hfhgh",
+            "ghgfhgfh"
+        ],
+        "modo_preparo": [
+            "ghfghgfh",
+            "fghfghgfh"
+        ],
+        "tempo": "343434 min",
+        "porcoes": "34343434 porções",
+        "foto_path": "C:/Users/franc/Downloads/anh-nguyen-kcA-c3f_3FE-unsplash.jpg",
+        "checklist": {
+            "hfhgh": false,
+            "ghgfhgfh": false
+        }
     }
 ]
